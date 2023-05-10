@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.main1{
+    background-color: #FFFF;
+    gap: 40px;
+    text-align: start;
+    height: 80px;
+    font-size: 10px;
+}
+.menu{
+    text-align: center;
+    font-size: 15px;
+}
+
+.img{
+    display: flex;
+    margin: 10px;
+    height: 500px;
+   justify-content: center;
+}
+.img2{
+    display: flex;
+    margin: 10px;
+    height: 500px; 
+   justify-content: center;
+}
+.img3{
+    display: flex;
+    margin: 10px;
+    height: 500px;
+    justify-content: center;
+}
+.footer{
+    text-align: center;
+    
+}
